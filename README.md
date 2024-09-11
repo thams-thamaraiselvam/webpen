@@ -1,4 +1,7 @@
 **# Wepenta:**
+
+**To Run: ./wepenta.sh yourdomain.com**
+
 Webpen tool for basic web Pentesting Automation Tool
 
 Pentesting Automation Tool is a comprehensive bash script that streamlines web penetration testing. With this tool, you can efficiently:
